@@ -138,3 +138,30 @@ button.cancel:hover{
   color: hsl(224, 23%, 25%);
   cursor: pointer;
 }
+
+@media screen and (max-width: 600px) {
+  body{
+    margin: 20px;
+  }
+
+  .container{
+    width: 330px;
+  }
+
+  button.submit{
+    width: 250px;
+  }
+
+
+  button.cancel{
+    margin-left: 90px;
+  }
+
+  button.submit:active{
+  background-color:hsl(245, 75%, 62%);
+  }
+
+  button.cancel:active{
+    color: hsl(224, 23%, 25%);
+  }
+}
