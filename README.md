@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/order-summary-challenge-solution-html-css-TExZz3B0F)
-- Live Site URL: [Order-Summary--Challenge-Solution-HTML-CSS](https://talalbnoob101.github.io/Order-Summary-Challenge-Solution-HTML-CSS/)
+- Live Site URL: [Order-Summary-Challenge-Solution-HTML-CSS](https://talalbnoob101.github.io/Order-Summary-Challenge-Solution-HTML-CSS/)
 
 
 ## Author
