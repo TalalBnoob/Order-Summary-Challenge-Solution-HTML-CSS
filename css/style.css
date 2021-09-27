@@ -16,7 +16,7 @@ body{
 }
 
 .container{
-  height: 600px;
+  height: auto;
   width: 375px;
   text-align: center;
   margin: auto;
@@ -126,6 +126,7 @@ button.cancel{
   margin: auto;
   height: 1.9rem;
   margin-top: 0.7rem;
+  padding-bottom: 2rem;
   color: hsl(224, 23%, 55%);
   font-weight: 900;
   font-size: 10px;
