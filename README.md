@@ -35,4 +35,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@TalalBnoob101](https://www.frontendmentor.io/profile/TalalBnoob101)
+- Frontend Mentor - [@TalalBnoob](https://www.frontendmentor.io/profile/TalalBnoob)
